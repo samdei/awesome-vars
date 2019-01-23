@@ -20,7 +20,6 @@ A collection of awesome variable names for those clueless developers. Controvers
 
 
 ## Databases
-*Fields names to use in databases.*
 
 ### MySQL
 
