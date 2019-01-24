@@ -11,21 +11,21 @@ A collection of awesome variable names for those clueless developers. Controvers
 
 ### Javascript
 
-* created: to store a creation date
-* email: to store a user email
-* password: to store a user password
-* updated: to store a last updated date
-* userId: to store a user identificator
-* username: to store a user nickname
+* To store a creation date: [created]
+* To store a user email: [email]
+* To store a user password: [password]
+* To store a last updated date: [updated, lastUpdate]
+* To store a user identificator: [userId]
+* To store a user nickname: [username, nickname]
 
 
 ## Databases
 
 ### MySQL
 
-* created: to store a creation date
-* email: to store a user email
-* password: to store a user password
-* updated: to store a last updated date
-* user_id: to store a user identificator
-* username: to store a user nickname
+* To store a creation date: [created]
+* To store a user email: [email]
+* To store a user password: [password]
+* To store a last updated date: [updated, last_update]
+* To store a user identificator: [user_id]
+* To store a user nickname: [username, nickname]
